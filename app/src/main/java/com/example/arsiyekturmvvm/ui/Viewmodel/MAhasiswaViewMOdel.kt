@@ -20,7 +20,7 @@ class MAhasiswaViewMOdel : ViewModel() {
                 email = listDM[2],
                 alamat = listDM[3],
                 noHP = listDM[4],
-
+                NIM = listDM[5],
                 )
         }
 
