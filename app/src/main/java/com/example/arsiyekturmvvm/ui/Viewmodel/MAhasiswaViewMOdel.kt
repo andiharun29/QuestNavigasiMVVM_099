@@ -19,6 +19,7 @@ class MAhasiswaViewMOdel : ViewModel() {
                 gender = listDM[1],
                 email = listDM[2],
                 alamat = listDM[3],
+                noHP = listDM[4],
 
                 )
         }
