@@ -35,7 +35,9 @@ fun DetailMahasiswaView(
                 isiparam = items.second
             )
         }
-
+        Button(onClick = {onBackButton()}) {
+            Text(text = "kembali")
+        }
     }
 
 
