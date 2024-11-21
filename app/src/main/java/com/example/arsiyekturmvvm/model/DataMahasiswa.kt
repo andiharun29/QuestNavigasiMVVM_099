@@ -8,6 +8,6 @@ data class DataMahasiswa(
     val email: String = "",
     val alamat: String = "",
     val noHP: String = "",
-
+    val NIM: String = "",
 )
 
